@@ -1,0 +1,16 @@
+2020-08-09T04:55:40.937Z [GradesControl-api] info 'grades.json' file not found or not structured.
+2020-08-09T04:55:40.944Z [GradesControl-api] info 'grades.json' file created.
+2020-08-09T04:55:40.945Z [GradesControl-api] info API started!
+2020-08-09T04:56:57.681Z [GradesControl-api] info GET /grades/subject '01 - JavaScript' 'Fórum' average.
+2020-08-09T04:57:38.403Z [GradesControl-api] info GET /grades/subject '03 - React' 'Trabalho Prático' average.
+2020-08-09T04:59:07.684Z [GradesControl-api] info GET /grades/subject '02 - Node' 'Desafio' average.
+2020-08-09T04:59:57.763Z [GradesControl-api] info GET /grades/student 'Loiane Groner' in '02 - Node' total.
+2020-08-09T05:01:04.657Z [GradesControl-api] error POST /grades/: account is not defined
+2020-08-09T05:01:33.876Z [GradesControl-api] info GET /grades/student 'Roberto Achar' in '03 - React' total.
+2020-08-09T05:02:32.953Z [GradesControl-api] info GET /grades/id/33 success.
+2020-08-09T05:03:26.843Z [GradesControl-api] info PUT /grades/id/33 updated.
+2020-08-09T05:04:12.480Z [GradesControl-api] info GET /grades/subject '01 - JavaScript' 'Desafio' average.
+2020-08-09T05:04:42.266Z [GradesControl-api] info DELETE /grades/id/32 deleted.
+2020-08-09T05:05:40.631Z [GradesControl-api] info GET /grades/subject '04 - MongoDB' 'Trabalho Prático' average.
+2020-08-09T05:06:07.343Z [GradesControl-api] info GET /grades/id/43 success.
+2020-08-09T05:06:39.886Z [GradesControl-api] info GET /grades/id/43 success.
